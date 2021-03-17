@@ -1,8 +1,8 @@
 .jumbotron {
     padding-top: 7rem;
-    background-image: url(img/4.jpg);
-    background-repeat: repeat-y;
-    background-position: center;
+    background-image: url(img/22.png);
+    background-repeat: no-repeat;
+    background-position: 0 -543PX;
     background-color: rgb(194, 223, 236);
 
 }
@@ -18,3 +18,5 @@ section {
 .jumbotron p {
     font-size: 40px;
 }
+
+#about {}
